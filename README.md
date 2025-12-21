@@ -4,6 +4,9 @@ Repo ini berisi **daftar nama** sistem, proyek, dan program militer Israel yang
 melibatkan kecerdasan buatan (AI), dikumpulkan dari sumber-sumber terbuka
 (berita, laporan, analisis publik).
 
+ Kata kunci: 
+ # PALESTINE, AI, military-ai, israel, surveillance, targeting, ethics, human-rights, zionis
+
 Repo ini **TIDAK** berisi:
 - kode atau algoritma
 - instruksi teknis
