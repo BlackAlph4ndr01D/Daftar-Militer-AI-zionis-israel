@@ -22,7 +22,7 @@ Tujuan utama repo ini adalah:
 # 📚 Navigasi Cepat
  
 - [Integrasi AI](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Integrasi-AI-dalam-Militer-Israel-sebagai-Alat-Pendukung-Agresi-Militer-di-PALESTINA)   
-- [Hubungan dengan Palestina](Hubungan-dengan-Palestina)  
+- [Hubungan dengan Palestina](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Hubungan-AI-Militer-Israel-dengan-Genosida-Gaza-dan-Pencaplokan-Wilayah-Tepi-Barat)  
 - [Risiko & Kritik](Risiko-Kritik)  
  
 
