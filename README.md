@@ -1,3 +1,33 @@
+# 📖 Pendahuluan
+
+Repo ini adalah dokumentasi terbuka mengenai **sistem militer berbasis AI zionis Israel**.  
+Tujuan utama repo ini adalah:  
+- **Aktivisme:** Menyuarakan kritik terhadap penggunaan AI dalam genosida dan pendudukan.  
+- **Dokumentasi:** Mengarsipkan sistem militer dan teknologi yang digunakan.  
+- **Edukasi:** Memberikan informasi transparan bagi publik, peneliti, dan aktivis.  
+
+> Semua konten bersifat **open source**, dapat diakses dan digunakan untuk tujuan edukasi dan advokasi.  
+> Dokumentasi ini bukan instruksi operasional militer, melainkan analisis teknis dan narasi kritis.
+
+---
+
+# 🔗 Eksplorasi Lebih Lanjut
+
+- 📚 **[Wiki Dokumentasi](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki)**  
+  Jelajahi halaman Wiki untuk detail teknis, analitik, dan catatan bahasa.  
+ 
+---
+
+# 📚 Navigasi Cepat
+ 
+- [Integrasi AI](Integrasi-AI)  
+- [Hubungan dengan Palestina](Hubungan-dengan-Palestina)  
+- [Risiko & Kritik](Risiko-Kritik)  
+ 
+
+
+
+
 # Daftar Sistem Militer Zionis Israel Berbasis AI (Sumber Terbuka)
 
 Repo ini berisi **daftar nama** sistem, proyek, dan program militer  Zionis Israel yang
