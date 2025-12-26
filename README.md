@@ -1,3 +1,4 @@
+<img width="711" height="499" alt="Screenshot 2025-12-22 10 26 20 AM" src="https://github.com/user-attachments/assets/e7b834c4-f0e2-44e6-821c-91c3e5111f09" />
 # 📖 Pendahuluan
 
 Repo ini adalah dokumentasi terbuka mengenai **sistem militer berbasis AI zionis Israel**.  
