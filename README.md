@@ -1,4 +1,4 @@
-# 🌍 Arsip Hidup: Daftar Militer AI & Dokumentasi
+ # 🌍 Arsip Hidup: Daftar Militer AI & Dokumentasi
 
 ![Last Commit](https://img.shields.io/github/last-commit/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel?style=for-the-badge)
 ![Status](https://img.shields.io/badge/status-active-green?style=for-the-badge)
@@ -79,7 +79,7 @@ Repo ini adalah dokumentasi terbuka mengenai **sistem militer berbasis AI Zionis
 
  
 ## 🌐 Peran Perusahaan BigTech
-Keterlibatan Bigtech sistem seperti **Lavender** atau **Where’s Daddy?** tidak akan memiliki kekuatan pemrosesan yang cukup untuk beroperasi.
+Tanpa Keterlibatan Bigtech, sistem seperti **[[Lavender]]** atau **[[Where’s Daddy]]?** tidak akan memiliki kekuatan pemrosesan yang cukup untuk beroperasi.
 - [Google (Project Nimbus)](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Google-(Project-Nimbus))
 - [Amazon (AWS)](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Amazon-(AWS---Amazon-Web-Services))
 - [Microsoft (Azure)](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Microsoft-(Azure-&-Penahanan-Data))
