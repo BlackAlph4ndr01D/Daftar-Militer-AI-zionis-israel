@@ -13,12 +13,6 @@
 ![Status](https://img.shields.io/badge/status-active-green?style=for-the-badge)
 ![License](https://img.shields.io/badge/license-CC--BY--4.0-blue?style=for-the-badge)
 
- 
-  
-## 📊 Statistik Repo
-
-- 🌀 **Clones:** 302  
-- 👁️ **Views:** 1,841  
 ---
 
 <div align="center">
@@ -27,7 +21,7 @@
 
 ---
 
-## 🌱 Refleksi
+## 🌱  Pengingat :
 > “Teknologi hanyalah alat. Yang memberi makna adalah keberanian untuk merawat dan menjaga arsip ini tetap hidup.”
 
 ---
@@ -131,3 +125,9 @@ Repo ini berisi **daftar nama** sistem, proyek, dan program militer Zionis Israe
 - 🗣️ [PsyOps & Social Operations AI](lists/psyops-ai.md) – AI psikologi & operasi sosial  
 
 ---
+
+  
+## 📊 Statistik Repo
+
+- 🌀 **Clones:** 302  
+- 👁️ **Views:** 1,841  
