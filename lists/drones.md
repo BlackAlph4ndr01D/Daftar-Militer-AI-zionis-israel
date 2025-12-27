@@ -1,22 +1,22 @@
 # Drone & UAV (Israel)
 
-- Heron TP
-- Heron TP-M
+- [Heron TP](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Heron-TP) Drone ntuk pengawasan, pengintaian, dan serangan presisi  dengan analisis visual.
+- Heron TP-M  
 - Heron Series
-- Orbiter 4
-- Orbiter 5
-- ThunderB
-- ThunderB Precision
-- Skylark
-- Harop
+- [Orbiter 4](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Orbiter-4)  drone taktis dengan Payload management → memilih sensor aktif sesuai misi.
+-  Orbiter 5 
+-  ThunderB 
+-  ThunderB Precision 
+- Skylark 
+- [Harop](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Harop) dirancang untuk berfungsi sebagai senjata langsung: ia berpatroli di udara, mencari target radar atau elektronik, lalu menabrakkan dirinya untuk menghancurkan target.
 - Harop Loitering
 - Xtend Drone
-- Skystriker
+- [Skystriker](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/SkyStriker) Drone ini relatif kecil, ringan, dan dapat diluncurkan dari berbagai platform, menjadikannya fleksibel untuk operasi taktis.
 - M.A.L.E UPV
-- MAGNI
+- [MAGNI](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/MAGNI) bagian dari arsenal UAS taktis Israel, efektif buat operasi darat  
 - MAGNI Swarm
-- Rotem
-- FireFly
+- [Rotem](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Rotem) digunakan untuk menyerang target darat dengan hulu ledak kecil, sekaligus berfungsi sebagai pengintaian
+- [FireFly](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/FireFly) drone kamikaze kecil menggunakan AI buat tracking target real-time, prediksi gerak, dan identifikasi otomatis.
 - Autonomous Drone
 - Viper
 - Eiten (UAV)
