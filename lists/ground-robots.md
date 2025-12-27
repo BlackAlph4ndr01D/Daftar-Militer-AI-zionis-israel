@@ -19,3 +19,6 @@
 
 - [ARCAS](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/ARCAS)  sistem senjata pintar berbasis AI dan Augmented RealityAI memungkinkan berbagi data antar unit, menciptakan “smartphone for soldiers”.
 - [Eitan (AFV)](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Eiten)Eitan dianggap drone paling kuat Israel, dengan kemampuan navigasi AI dan operasi panjang, dipake luas pada Genosida Gaza 
+
+[![⬅️ Back to >> lists](https://img.shields.io/badge/Back_to-lists-blueviolet?style=for-the-badge)](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/tree/main/lists)
+  
