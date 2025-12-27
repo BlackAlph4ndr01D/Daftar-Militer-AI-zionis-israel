@@ -1,8 +1,27 @@
-<img width="711" height="499" alt="Screenshot 2025-12-22 10 26 20 AM" src="https://github.com/user-attachments/assets/e7b834c4-f0e2-44e6-821c-91c3e5111f09" />
-# 📖 Pendahuluan
+# 🌍 Arsip Hidup: Daftar Militer AI & Dokumentasi
+ 
+<div align="center">
+ 
+</div>
 
+---
+
+<img alt="Screenshot 2025-12-22 10 26 20 AM" src="https://github.com/user-attachments/assets/e7b834c4-f0e2-44e6-821c-91c3e5111f09" style="max-width:100%; height:auto;" />
+ 
+
+---
+ 
+
+## 🌱 Refleksi
+> “Teknologi hanyalah alat. Yang memberi makna adalah keberanian untuk merawat dan menjaga arsip ini tetap hidup.”
+
+---
+ 
+# 📖 Pendahuluan
 Repo ini adalah dokumentasi terbuka mengenai **sistem militer berbasis AI zionis Israel**.  
-Tujuan utama repo ini adalah:  
+ 
+- Repo ini lahir dari **kolaborasi manusia + AI**.  Data yang dipakai **open source**
+ 
 - **Aktivisme:** Menyuarakan kritik terhadap penggunaan AI dalam genosida dan pendudukan.  
 - **Dokumentasi:** Mengarsipkan sistem militer dan teknologi yang digunakan.  
 - **Edukasi:** Memberikan informasi transparan bagi publik, peneliti, dan aktivis.  
@@ -19,19 +38,42 @@ Tujuan utama repo ini adalah:
  
 ---
 
+---
+
 # 📚 Catatan Tambahan
  
 - [Integrasi AI](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Integrasi-AI-dalam-Militer-Israel-sebagai-Alat-Pendukung-Agresi-Militer-di-PALESTINA)   
 - [Hubungan dengan Palestina](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Hubungan-AI-Militer-Israel-dengan-Genosida-Gaza-dan-Pencaplokan-Wilayah-Tepi-Barat)  
 - [Risiko dan Kritik](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Resiko-dan-Kritik)
-- Tanpa dukungan infrastruktur dari perusahaan-perusahaan global ini, sistem seperti Lavender atau Where’s Daddy? tidak akan memiliki kekuatan pemrosesan yang cukup untuk beroperasi. Berikut adalah  peran raksasa teknologi dunia dalam ekosistem ini:
-1. [Google (Project Nimbus)](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Google-(Project-Nimbus)) 
-2. [Amazon (AWS - Amazon Web Services)](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Amazon-(AWS---Amazon-Web-Services))
-3. [Microsoft (Azure & Penahanan Data)](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Microsoft-(Azure-&-Penahanan-Data))
-4. [Palantir (Analitik Prediktif)](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Palantir-(Analitik-Prediktif))
-5. [Meta (WhatsApp & Instagram sebagai Sumber Data)](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Meta-(WhatsApp-&-Instagram-sebagai-Sumber-Data))
-6. [ Nvidia & Intel (Perangkat Keras/Chip)](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Nvidia-&-Intel-(Perangkat-Keras-Chip))
-7. [Cisco](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Cisco) 
+<div style="display:flex;">
+
+<!-- Main content -->
+<div style="flex:3; padding-right:20px;">
+
+### ⚙️ Infrastruktur Global
+
+Tanpa dukungan infrastruktur dari perusahaan-perusahaan global ini, sistem seperti **Lavender** atau **Where’s Daddy?** tidak akan memiliki kekuatan pemrosesan yang cukup untuk beroperasi.  
+
+</div>
+
+<!-- Sidebar kanan -->
+<div style="flex:1; max-width:250px;">
+
+<div style="background:#e0f7ff; padding:12px; border-radius:10px; margin-bottom:10px;">
+🌐 <b>Peran Raksasa Teknologi</b>
+<ul>
+<li><a href="https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Google-(Project-Nimbus)">Google (Project Nimbus)</a></li>
+<li><a href="https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Amazon-(AWS---Amazon-Web-Services)">Amazon (AWS)</a></li>
+<li><a href="https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Microsoft-(Azure-&-Penahanan-Data)">Microsoft (Azure)</a></li>
+<li><a href="https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Palantir-(Analitik-Prediktif)">Palantir</a></li>
+<li><a href="https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Meta-(WhatsApp-&-Instagram-sebagai-Sumber-Data)">Meta</a></li>
+<li><a href="https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Nvidia-&-Intel-(Perangkat-Keras-Chip)">Nvidia & Intel</a></li>
+<li><a href="https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Cisco">Cisco</a></li>
+</ul>
+</div>
+
+</div>
+</div>
 
 
 
