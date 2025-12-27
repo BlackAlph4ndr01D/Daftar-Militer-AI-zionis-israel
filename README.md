@@ -8,8 +8,8 @@
   
 <h3>📊 Statistik Repo</h3>
 
-- 🌀 **Clones:** 232  
-- 👁️ **Views:** 1,768  
+- 🌀 **Clones:** 302  
+- 👁️ **Views:** 1,841  
 
 </div>
 
