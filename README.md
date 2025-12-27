@@ -49,9 +49,7 @@ Repo ini adalah dokumentasi terbuka mengenai **sistem militer berbasis AI Zionis
 
 <!-- Main content -->
 <div style="flex:3;">
-
-### 📖 Konten Utama
-Narasi atau penjelasan kamu tetap di sini. Sidebar di kanan akan tampil sebagai panel navigasi tambahan.
+ 
 
 </div>
 
@@ -77,18 +75,12 @@ Narasi atau penjelasan kamu tetap di sini. Sidebar di kanan akan tampil sebagai 
 </div>
 
 ---
-
-<div style="display:flex; gap:20px; align-items:flex-start;">
-
-<!-- Main content -->
-<div style="flex:3;">
+ 
 
 ### ⚙️ Infrastruktur Global
 
 Tanpa dukungan infrastruktur dari perusahaan-perusahaan global ini, sistem seperti **Lavender** atau **Where’s Daddy?** tidak akan memiliki kekuatan pemrosesan yang cukup untuk beroperasi.
-
-</div>
-
+---
 ## 🌐 Peran Raksasa Teknologi
 
 - [Google (Project Nimbus)](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Google-(Project-Nimbus))
