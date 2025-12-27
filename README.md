@@ -6,13 +6,10 @@
 
 <div align="right" style="background:#f0f8ff; padding:12px; border-radius:8px; width:220px; float:right; margin:10px;">
   
-<h3>📊 Statistik Repo</h3>
+## 📊 Statistik Repo
 
 - 🌀 **Clones:** 302  
 - 👁️ **Views:** 1,841  
-
-</div>
-
 ---
 
 <div align="center">
