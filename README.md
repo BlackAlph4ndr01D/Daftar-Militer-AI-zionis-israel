@@ -1,27 +1,20 @@
 # 🌍 Arsip Hidup: Daftar Militer AI & Dokumentasi
- 
+
 <div align="center">
- 
+<img alt="Screenshot 2025-12-22 10 26 20 AM" src="https://github.com/user-attachments/assets/e7b834c4-f0e2-44e6-821c-91c3e5111f09" style="max-width:100%; height:auto; border-radius:10px;" />
 </div>
 
 ---
-
-<img alt="Screenshot 2025-12-22 10 26 20 AM" src="https://github.com/user-attachments/assets/e7b834c4-f0e2-44e6-821c-91c3e5111f09" style="max-width:100%; height:auto;" />
- 
-
----
- 
 
 ## 🌱 Refleksi
 > “Teknologi hanyalah alat. Yang memberi makna adalah keberanian untuk merawat dan menjaga arsip ini tetap hidup.”
 
 ---
- 
+
 # 📖 Pendahuluan
-Repo ini adalah dokumentasi terbuka mengenai **sistem militer berbasis AI zionis Israel**.  
- 
-- Repo ini lahir dari **kolaborasi manusia + AI**.  Data yang dipakai **open source**
- 
+Repo ini adalah dokumentasi terbuka mengenai **sistem militer berbasis AI Zionis Israel**.  
+
+- Repo ini lahir dari **kolaborasi manusia + AI** dengan data **open source**.  
 - **Aktivisme:** Menyuarakan kritik terhadap penggunaan AI dalam genosida dan pendudukan.  
 - **Dokumentasi:** Mengarsipkan sistem militer dan teknologi yang digunakan.  
 - **Edukasi:** Memberikan informasi transparan bagi publik, peneliti, dan aktivis.  
@@ -32,26 +25,24 @@ Repo ini adalah dokumentasi terbuka mengenai **sistem militer berbasis AI zionis
 ---
 
 # 🔗 Eksplorasi Lebih Lanjut
-
 - 📚 **[Wiki Dokumentasi](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki)**  
   Jelajahi halaman Wiki untuk detail teknis, analitik, dan catatan bahasa.  
- 
----
 
 ---
 
 # 📚 Catatan Tambahan
- 
-- [Integrasi AI](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Integrasi-AI-dalam-Militer-Israel-sebagai-Alat-Pendukung-Agresi-Militer-di-PALESTINA)   
+- [Integrasi AI](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Integrasi-AI-dalam-Militer-Israel-sebagai-Alat-Pendukung-Agresi-Militer-di-PALESTINA)  
 - [Hubungan dengan Palestina](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Hubungan-AI-Militer-Israel-dengan-Genosida-Gaza-dan-Pencaplokan-Wilayah-Tepi-Barat)  
-- [Risiko dan Kritik](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Resiko-dan-Kritik)
-<div style="display:flex;">
+- [Risiko dan Kritik](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Resiko-dan-Kritik)  
+
+---
+
+<div style="display:flex; gap:20px;">
 
 <!-- Main content -->
-<div style="flex:3; padding-right:20px;">
+<div style="flex:3;">
 
 ### ⚙️ Infrastruktur Global
-
 Tanpa dukungan infrastruktur dari perusahaan-perusahaan global ini, sistem seperti **Lavender** atau **Where’s Daddy?** tidak akan memiliki kekuatan pemrosesan yang cukup untuk beroperasi.  
 
 </div>
@@ -59,7 +50,7 @@ Tanpa dukungan infrastruktur dari perusahaan-perusahaan global ini, sistem seper
 <!-- Sidebar kanan -->
 <div style="flex:1; max-width:250px;">
 
-<div style="background:#e0f7ff; padding:12px; border-radius:10px; margin-bottom:10px;">
+<div style="background:#e0f7ff; padding:12px; border-radius:10px; box-shadow:0 2px 5px rgba(0,0,0,0.1);">
 🌐 <b>Peran Raksasa Teknologi</b>
 <ul>
 <li><a href="https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Google-(Project-Nimbus)">Google (Project Nimbus)</a></li>
@@ -75,43 +66,39 @@ Tanpa dukungan infrastruktur dari perusahaan-perusahaan global ini, sistem seper
 </div>
 </div>
 
+---
 
+# 🗂️ Daftar Sistem Militer Zionis Israel Berbasis AI (Sumber Terbuka)
+Repo ini berisi **daftar nama** sistem, proyek, dan program militer Zionis Israel yang melibatkan kecerdasan buatan (AI), dikumpulkan dari sumber-sumber terbuka (berita, laporan, analisis publik).  
 
-
-# Daftar Sistem Militer Zionis Israel Berbasis AI (Sumber Terbuka)
-
-Repo ini berisi **daftar nama** sistem, proyek, dan program militer  Zionis Israel yang
-melibatkan kecerdasan buatan (AI), dikumpulkan dari sumber-sumber terbuka
-(berita, laporan, analisis publik).
-
- Kata kunci: 
- # PALESTINE, AI, military-ai, israel, surveillance, targeting, ethics, human-rights, zionis
+**Kata kunci:**  
+`#PALESTINE #AI #military-ai #israel #surveillance #targeting #ethics #human-rights #zionis`
 
 Repo ini **TIDAK** berisi:
-- kode atau algoritma
-- instruksi teknis
-- cara membuat atau mengoperasikan senjata
-- optimisasi sistem senjata
+- kode atau algoritma  
+- instruksi teknis  
+- cara membuat atau mengoperasikan senjata  
+- optimisasi sistem senjata  
 
 Fokus repo ini hanya:
-- dokumentasi nama
-- pengelompokan berdasarkan kategori
-- arsip referensi publik
+- dokumentasi nama  
+- pengelompokan berdasarkan kategori  
+- arsip referensi publik  
 
->>  Catatan Etika :
- # Repo ini bersifat dokumentatif dan informatif.
+> ⚖️ **Catatan Etika:** Repo ini bersifat dokumentatif dan informatif.  
 
-##  Struktur Dan Navigasi Cepat
+---
 
-- [Air Defense & Missile Systems](lists/air-defense.md) – sistem pertahanan udara & rudal
-- [Drone & UAV](lists/drones.md) – drone & UAV
-- [Ground Robots & Armored Vehicles](lists/ground-robots.md) – robot darat & kendaraan tempur 
-- [Surveillance & Sensor AI](lists/surveillance-ai.md) – AI pengawasan & sensor
-- [Targeting & Smart Weapons](lists/targeting-ai.md) – AI targeting & senjata cerdas
-- [Strategic AI & LLM](lists/strategic-ai.md) – AI strategis & LLM
-- [PsyOps & Social Operations AI](lists/psyops-ai.md) – AI psikologi & operasi sosial
+## 📂 Struktur & Navigasi Cepat
+- [Air Defense & Missile Systems](lists/air-defense.md) – sistem pertahanan udara & rudal  
+- [Drone & UAV](lists/drones.md) – drone & UAV  
+- [Ground Robots & Armored Vehicles](lists/ground-robots.md) – robot darat & kendaraan tempur  
+- [Surveillance & Sensor AI](lists/surveillance-ai.md) – AI pengawasan & sensor  
+- [Targeting & Smart Weapons](lists/targeting-ai.md) – AI targeting & senjata cerdas  
+- [Strategic AI & LLM](lists/strategic-ai.md) – AI strategis & LLM  
+- [PsyOps & Social Operations AI](lists/psyops-ai.md) – AI psikologi & operasi sosial  
+
+---
 
 ![Status](https://img.shields.io/badge/status-active-green)
 ![License](https://img.shields.io/badge/license-CC--BY--4.0-blue)
-
- 
