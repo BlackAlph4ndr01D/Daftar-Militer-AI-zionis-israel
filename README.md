@@ -4,7 +4,7 @@
 ![Status](https://img.shields.io/badge/status-active-green?style=for-the-badge)
 ![License](https://img.shields.io/badge/license-CC--BY--4.0-blue?style=for-the-badge)
 
-<div align="right" style="background:#f0f8ff; padding:12px; border-radius:8px; width:220px; float:right; margin:10px;">
+ 
   
 ## 📊 Statistik Repo
 
