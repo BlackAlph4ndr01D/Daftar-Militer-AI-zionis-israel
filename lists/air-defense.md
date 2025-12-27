@@ -1,4 +1,4 @@
-# 🛡️ Air Defense & Missile Systems (Israel)
+# 🛡️ Air Defense & Missile Systems (Zionist Israel)
 
 - 🚀 [Arrow 3](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Arrow-3)  
   Tidak disebut eksplisit "AI", tapi bergantung pada algoritma canggih & pemrosesan otomatis untuk diskriminasi ancaman real-time.  
@@ -64,7 +64,8 @@
   Rudal udara-ke-udara dengan kemampuan peluncuran full-sphere (tembak ke segala arah).  
 
 - ✈️ [Derby](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Derby)  
-  AI untuk prediksi gerak target.  
+  AI untuk prediksi gerak target.    
 
 - 🛰️ [AEGIS](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/AEGIS)  
   Sistem radar & komando untuk deteksi, tracking, & intercept ancaman (rudal balistik, cruise, pesawat, drone).  
+ Back to >> [list](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/tree/main/lists)   
