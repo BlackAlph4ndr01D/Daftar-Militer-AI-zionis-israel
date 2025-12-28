@@ -22,22 +22,22 @@
   Upgrade ThunderB standar. AI untuk targeting presisi. Dipakai IDF pada agresi Gaza.  
 
 - 🚁 [Skylark](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Skylark-5)  
-  (informasi tambahan belum terdokumentasi).  
+  (Skylark bagian dari arsenal drone zionist Israel untuk operasi darat, sebagai agresi militer Genosida Gaza untuk intel cepet , merupakan tool automate perang yang meningkatkan  korban tewas rakyat Gaza)  
 
 - ⚡ [Harop](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Harop)  
   Loitering munition: berpatroli di udara, mencari target radar/elektronik, lalu menabrakkan diri.  
 
-- ⚡ Harop Loitering  
-  (varian Harop, detail tambahan belum terdokumentasi).  
+- ⚡ [Harop Loitering](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Harop-Loitering)  
+  (varian Harop, drone autonomous yang bisa "loiter" (menggantung) di udara untuk mencari target, kemudian nabrak dan meledakkan diri untuk menewaskan korban rakyat Gaza).  
 
-- 🚁 Xtend Drone    
-  (informasi tambahan belum terdokumentasi).  
+- 🚁 [Xtend Drone](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Xtend-Drone)    
+  (drone taktis berbasis AI sebagai alat  genosida  karena automate agresi militer dan menewaskan korban rakyat Gaza Palestina).  
 
 - ⚡ [SkyStriker](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/SkyStriker)  
   Drone kecil, ringan, fleksibel. Bisa diluncurkan dari berbagai platform untuk operasi taktis.  
 
-- 🛰️ M.A.L.E UPV  
-  (Medium Altitude Long Endurance UAV, detail tambahan belum terdokumentasi).  
+- 🛰️ [M.A.L.E UPV](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/M.A.L.E-UPV)  
+  (Medium Altitude Long Endurance UAV, dengan kemampuan AI untuk navigasi otomatis dan analisis intelijen untuk monitor area Gaza).  
 
 - 🚁 [MAGNI](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/MAGNI)  
   UAS taktis Israel, efektif untuk operasi darat.  
