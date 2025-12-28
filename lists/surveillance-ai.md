@@ -1,5 +1,6 @@
  # Surveillance & Sensor AI (Israel)
 
+
 ## 📊 Tabel Komparatif: Surveillance & Sensor AI (Israel)
 
 | **Nama AI**            | **Deskripsi/Peran**                                      |
@@ -27,3 +28,4 @@
 
 [⬅️ Back to >> Halaman Utama](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel)
       
+ ![Badge](https://img.shields.io/badge/🐑_Repo-ini_hasil_ngangon_AI_liar-ff0000?style=for-the-badge&logo=github)
