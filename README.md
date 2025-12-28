@@ -22,7 +22,7 @@
 ---
 
 ## 🌱  Pengingat :
-> “Teknologi hanyalah alat. Yang memberi makna adalah keberanian untuk merawat dan menjaga arsip ini tetap hidup.”
+> “Gaza adalah bukti nyata di mana AI digunakan untuk skalabilitas pembunuhan. Tepi Barat adalah bukti nyata di mana AI digunakan untuk efisiensi penindasan .”
 
 ---
 
@@ -79,14 +79,18 @@ Repo ini adalah dokumentasi terbuka mengenai **sistem militer berbasis AI Zionis
 
  
 ## 🌐 Peran Perusahaan BigTech
-Tanpa Keterlibatan Bigtech, sistem seperti **[[Lavender]]** atau **[[Where’s Daddy]]?** tidak akan memiliki kekuatan pemrosesan yang cukup untuk beroperasi.
+Tanpa kolaborasi dari BigTech , Zionist Military AI akan kehilangan daya gerak, ruang penyimpanan, dan akurasi datanya. Secara hukum, di akhir tahun 2025 ini, bukti-bukti keterlibatan korporasi ini sudah lebih dari cukup untuk dijadikan dasar penuntutan di Mahkamah Internasional (ICC/ICJ).
 - [Google (Project Nimbus)](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Google-(Project-Nimbus))
 - [Amazon (AWS)](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Amazon-(AWS---Amazon-Web-Services))
 - [Microsoft (Azure)](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Microsoft-(Azure-&-Penahanan-Data))
 - [Palantir](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Palantir-(Analitik-Prediktif))
 - [Meta - Instagram - Facebook - Whatsapp](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Meta-(WhatsApp-&-Instagram-sebagai-Sumber-Data))
 - [Nvidia & Intel](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Nvidia-&-Intel-(Perangkat-Keras-Chip))
-- [Cisco](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Cisco)
+- [Cisco](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Cisco) [Cisco & Dell](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Cisco-%26-Dell)
+- [IBM](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/IBM)
+- [Hikvision](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Hikvision)
+- [Intel](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Intel)
+ 
 
  
 ---
