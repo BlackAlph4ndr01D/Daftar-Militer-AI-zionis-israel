@@ -70,5 +70,8 @@
   Sistem radar & komando untuk deteksi, tracking, & intercept ancaman (rudal balistik, cruise, pesawat, drone).  
 [⬅️ Back to >> Halaman Utama](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel)
 
+![Badge](https://img.shields.io/badge/🐑_Repo-ini_hasil_ngangon_AI_liar-00aaff?style=for-the-badge&logo=github)
+
+
   
   
