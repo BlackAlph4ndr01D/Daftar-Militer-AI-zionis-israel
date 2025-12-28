@@ -4,7 +4,7 @@
 <h3>⚠️ Korban Agresi Militer Israel di Gaza // Data Per 27 Desember 2025</h3>
 
 <ul style="list-style:none; padding-left:0; margin:0;">
-  <li>🕊️ <b>Tewas:</b> 71,266</li>
+  <li>🕊️ <b>Syahid:</b> 71,266</li>
   <li>💔 <b>Terluka:</b> 171,219</li>
 </ul> 
 
@@ -133,5 +133,5 @@ Repo ini berisi **daftar nama** sistem, proyek, dan program militer Zionis Israe
   
 ## 📊 Statistik Repo
 
-- 🌀 **Clones:** 380  
-- 👁️ **Views:** 1,999     
+- 🌀 **Clones:** 411
+- 👁️ **Views:** 2,070               
