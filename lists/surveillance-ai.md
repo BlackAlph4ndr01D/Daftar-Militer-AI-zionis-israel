@@ -2,7 +2,7 @@
 
 ## 📊 Tabel Komparatif: Surveillance & Sensor AI (Israel)
 
-| **Nama AI (dengan emoji)**            | **Deskripsi/Peran**                                      |
+| **Nama AI**            | **Deskripsi/Peran**                                      |
 |---------------------------------------|----------------------------------------------------------|
 | Corsight Facial 👤📷                  | Sistem pengenalan wajah dengan akurasi tinggi.           |
 | Facial Recognition 🧑🔍               | Identifikasi individu melalui fitur wajah.               |
