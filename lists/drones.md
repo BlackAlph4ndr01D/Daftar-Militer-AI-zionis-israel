@@ -21,7 +21,7 @@
 - ⚡ [ThunderB Precision](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/ThunderB-Precision)  
   Upgrade ThunderB standar. AI untuk targeting presisi. Dipakai IDF pada agresi Gaza.  
 
-- 🚁 Skylark  
+- 🚁 [Skylark](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Skylark-5)  
   (informasi tambahan belum terdokumentasi).  
 
 - ⚡ [Harop](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Harop)  
@@ -30,7 +30,7 @@
 - ⚡ Harop Loitering  
   (varian Harop, detail tambahan belum terdokumentasi).  
 
-- 🚁 Xtend Drone  
+- 🚁 Xtend Drone    
   (informasi tambahan belum terdokumentasi).  
 
 - ⚡ [SkyStriker](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/SkyStriker)  
