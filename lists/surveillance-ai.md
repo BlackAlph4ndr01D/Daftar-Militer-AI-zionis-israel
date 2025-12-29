@@ -23,10 +23,9 @@
 | Flow 🔄📊                             | Analisis aliran data & pergerakan.                       |
 | FRT 👁️🧠                             | Facial Recognition Technology untuk kontrol populasi.    |
 | Z Tube 📹📡                           | Sistem pengawasan berbasis video streaming.              |
-| Guardian 🛡️👁️                       | AI pengawas ancaman real‑time.                           |
+| [Guardian](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Guardian) 🛡️👁️                       | AI pengawas ancaman real‑time.                           |
 
 
 [⬅️ Back to >> Halaman Utama](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel)
       
- ![Badge](https://img.shields.io/badge/🐑_Repo-ini_hasil_ngangon_AI_liar-ff0000?style=for-the-badge&logo=github)
-   
+ 
