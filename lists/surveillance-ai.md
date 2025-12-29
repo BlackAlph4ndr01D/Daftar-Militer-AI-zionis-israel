@@ -15,10 +15,10 @@
 | [Social Media Dox](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Social-Media-Dox) 📲🕵️                | Pengumpulan & pengungkapan data pribadi dari media sosial.|
 | [AI Radar](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/AI-Radar) 📡🤖                         | Radar berbasis AI untuk deteksi objek.                   |
 | [Quantum Radar](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Quantum-Radar) ⚛️📡                    | Radar generasi baru dengan teknologi kuantum.            |
-| AI Cyber 💻🛡️                        | Sistem pertahanan & serangan siber berbasis AI.          |
-| Cyber AI Nexus 🌐🔒                   | Platform integrasi keamanan siber dengan AI.             |
+| [AI Cyber](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/AI-Cyber) 💻🛡️                        | Sistem pertahanan & serangan siber berbasis AI.          |
+| [Cyber AI Nexus](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Cyber-AI-Nexus) 🌐🔒                   | Platform integrasi keamanan siber dengan AI.             |
 | [Edge 360](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Edge-360) 🛰️🔭                        | Sistem pengawasan 360° berbasis edge computing.          |
-| Heart Print ❤️🔍                      | Identifikasi individu melalui pola detak jantung.        |
+| [Heart Print](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Heart-Print) ❤️🔍                      | Identifikasi individu melalui pola detak jantung.        |
 | Map It 🗺️📍                          | Pemetaan lokasi target secara digital.                   |
 | Flow 🔄📊                             | Analisis aliran data & pergerakan.                       |
 | FRT 👁️🧠                             | Facial Recognition Technology untuk kontrol populasi.    |
