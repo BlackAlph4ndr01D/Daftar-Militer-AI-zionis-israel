@@ -129,12 +129,11 @@ Repo ini berisi **daftar nama** sistem, proyek, dan program militer Zionis Israe
 - 🗣️ [PsyOps & Social Operations AI](lists/psyops-ai.md) – AI psikologi & operasi sosial  
 
 ---
+![Terima Kasih Cloners](https://img.shields.io/badge/%F0%9F%8E%89%20Terima%20Kasih%20Cloners-519%20Clones-ff69b4?style=for-the-badge&logo=github&logoColor=white&colorA=ff69b4&colorB=800080)
+![Repo Views](https://img.shields.io/badge/%F0%9F%91%80%20Repo%20Views-2,389-blue?style=for-the-badge&logo=github&logoColor=white&colorA=0000ff&colorB=00ffff)
 
-  
-## 📊 Statistik Repo
 
-- 🌀 **Clones:** 519
-- 👁️ **Views:** 2,347              
+
 
 ## 🧭 Fokus Hari Ini >> 30 Desember 2025
 
