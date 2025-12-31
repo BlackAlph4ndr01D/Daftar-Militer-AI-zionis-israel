@@ -1,11 +1,13 @@
 ##  🌍 Arsip Hidup: Daftar Militer AI yang digunakan oleh zionist Israel sebagai tekhnologi pendukung Genosida di Gaza dan Pencaplokan Wilayah Tepi Barat, PALESTINA  
-
+---
+##### Tribute untuk [[Abu Ubaidah]](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Abu-Ubaidah-%E2%80%90-Eliminasi-Oleh-Algoritma) AI tetaplah benda mati. Ia bisa memetakan koordinat, tapi ia tidak bisa memetakan takdir. Ia bisa menghancurkan tubuh, tapi ia tidak bisa menghancurkan ideologi kebebasan. Di hadapan ALLOH, kesyahidan adalah kemenangan sejati yang melampaui segala perhitungan algoritma duniawi.
+---
  
-<h3>⚠️ Korban Agresi Militer Israel di Gaza // Data Per 27 Desember 2025</h3>
+<h3>⚠️ Korban Agresi Militer Israel di Gaza // Data Per 31 Desember 2025</h3>
 
 <ul style="list-style:none; padding-left:0; margin:0;">
-  <li>🕊️ <b>Syahid:</b> 71,266</li>
-  <li>💔 <b>Terluka:</b> 171,219</li>
+  <li>🕊️ <b>Syahid:</b> 71,269</li>
+  <li>💔 <b>Terluka:</b> 171,232</li>
 </ul> 
 
  
@@ -129,16 +131,16 @@ Repo ini berisi **daftar nama** sistem, proyek, dan program militer Zionis Israe
 - 🗣️ [PsyOps & Social Operations AI](lists/psyops-ai.md) – AI psikologi & operasi sosial  
 
 ---
-![Terima Kasih Cloners](https://img.shields.io/badge/%F0%9F%8E%89%20Terima%20Kasih%20Cloners-519%20Clones-ff69b4?style=for-the-badge&logo=github&logoColor=white&colorA=ff69b4&colorB=800080)
-![Repo Views](https://img.shields.io/badge/%F0%9F%91%80%20Repo%20Views-2,389-blue?style=for-the-badge&logo=github&logoColor=white&colorA=0000ff&colorB=00ffff)
+![Terima Kasih Cloners](https://img.shields.io/badge/%F0%9F%8E%89%20Terima%20Kasih%20Cloners-552%20Clones-ff69b4?style=for-the-badge&logo=github&logoColor=white&colorA=ff69b4&colorB=800080)
+![Repo Views](https://img.shields.io/badge/%F0%9F%91%80%20Repo%20Views-2,496-blue?style=for-the-badge&logo=github&logoColor=white&colorA=0000ff&colorB=00ffff)
 
 
 
 
-## 🧭 Fokus Hari Ini >> 30 Desember 2025
+## 🧭 Fokus Hari Ini >> 31 Desember 2025
 
 <div style="background-color: #f8c2d2; padding: 25px; border-radius: 12px; border: 1px solid #aaa; box-shadow: 2px 2px 8px rgba(0,0,0,0.15); font-size: 16px; line-height: 1.6;">
 🔗 <strong>Abu Ubaidah</strong><br><br>
-Abu Ubaidah dinyatakan syahid. Walaupun sedih, tapi bukan saatnya tenggelam dalam kesedihan. Kupersembahkan Repo ini untuk seluruh As-Syuhada Palestina , baik di Gaza maupun Tepi Barat. 
+Banyak cara untuk tetap mendukung kebebasan Palestina, tapi sebelumnya...bebeaskan dirimu sendiri dulu. 
 </div>
 
