@@ -1,4 +1,4 @@
-##  🌍 Arsip Hidup: Daftar Militer AI yang digunakan oleh zionist Israel sebagai tekhnologi pendukung Genosida di Gaza dan Pencaplokan Wilayah Tepi Barat, PALESTINA  
+##  🌍 Arsip Hidup: Military AI Israel (Daftar Militer AI zionis israel) yang digunakan oleh zionist Israel sebagai tekhnologi pendukung Genosida di Gaza dan Pencaplokan Wilayah Tepi Barat, PALESTINA  
 ---
 ##### Tribute untuk [[Abu Ubaidah]](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Abu-Ubaidah-%E2%80%90-Eliminasi-Oleh-Algoritma) AI tetaplah benda mati. Ia bisa memetakan koordinat, tapi ia tidak bisa memetakan takdir. Ia bisa menghancurkan tubuh, tapi ia tidak bisa menghancurkan ideologi kebebasan. Di hadapan ALLOH, kesyahidan adalah kemenangan sejati yang melampaui segala perhitungan algoritma duniawi.
 ---
