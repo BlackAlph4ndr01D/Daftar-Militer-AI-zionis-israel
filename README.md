@@ -150,6 +150,9 @@ Repo ini berisi **daftar nama** sistem, proyek, dan program militer Zionis Israe
 > ⚖️ **Catatan Etika:** Repo ini bersifat dokumentatif dan informatif.  
 > Fokus pada: dokumentasi nama → pengelompokan kategori → arsip referensi publik.
 
+
+</div>
+
 ---
 
 ## 📂 Struktur & Navigasi Cepat
