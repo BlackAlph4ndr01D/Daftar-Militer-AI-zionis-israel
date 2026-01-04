@@ -2,6 +2,15 @@
 ---
 ##### Tribute untuk [[Abu Ubaidah]](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Abu-Ubaidah-%E2%80%90-Eliminasi-Oleh-Algoritma) AI tetaplah benda mati. Ia bisa memetakan koordinat, tapi ia tidak bisa memetakan takdir. Ia bisa menghancurkan tubuh, tapi ia tidak bisa menghancurkan ideologi kebebasan. Di hadapan ALLOH, kesyahidan adalah kemenangan sejati yang melampaui segala perhitungan algoritma duniawi.
 ---
+<div align="center">
+  <img 
+    alt="WhatsApp Image 2026-01-04 at 18 07 36" 
+    src="https://github.com/user-attachments/assets/2df76ade-8dbe-42d7-888d-c3a38f6d125d" 
+    style="max-width:100%; height:auto; border-radius:10px;" 
+  />
+</div>
+
+
  
 <h3>⚠️ Korban Agresi Militer Israel di Gaza // Data Per 3 Januari 2026</h3>
 
