@@ -128,28 +128,23 @@ Repo ini berisi **daftar nama** sistem, proyek, dan program militer Zionis Israe
 `#PALESTINE #AI #militaryAI #GazaGenocide #WestBankUnderAttack #FREEPALESTINE #ethics #HumanRights #zionist`
 
 ---
-<div align="center"> 
-  
-![Disclaimer](https://img.shields.io/badge/⚠️-Disclaimer-critical?style=for-the-badge&color=red)
-
 <div align="center">
 
-## 🚫 Repo ini TIDAK berisi:
+<h2>🚫 Repo ini TIDAK berisi:</h2>
 
-<p>
-❌ Kode atau algoritma &nbsp;&nbsp; | &nbsp;&nbsp; 
-❌ Instruksi teknis &nbsp;&nbsp; | &nbsp;&nbsp; 
-❌ Cara membuat atau mengoperasikan senjata &nbsp;&nbsp; | &nbsp;&nbsp; 
-❌ Optimisasi sistem senjata
-</p>
+<img src="https://img.shields.io/badge/⚠️-Disclaimer-critical?style=for-the-badge&color=red" alt="Disclaimer Badge" />
 
-</div>
+<table style="margin-top:10px;">
+  <tr>
+    <td>❌ Kode atau algoritma</td>
+    <td>❌ Instruksi teknis</td>
+    <td>❌ Cara membuat atau mengoperasikan senjata</td>
+    <td>❌ Optimisasi sistem senjata</td>
+  </tr>
+</table>
 
-
-
-> ⚖️ **Catatan Etika:** Repo ini bersifat dokumentatif dan informatif.  
-> Fokus pada: dokumentasi nama → pengelompokan kategori → arsip referensi publik.
-
+<p><b>⚖️ Catatan Etika:</b> Repo ini bersifat dokumentatif dan informatif.<br>
+Fokus pada: dokumentasi nama → pengelompokan kategori → arsip referensi publik.</p>
 
 </div>
 
