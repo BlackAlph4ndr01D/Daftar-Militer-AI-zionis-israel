@@ -1,0 +1,33 @@
+graph TD
+    %% Source Data (The Capture)
+    A[CCTV & Drone Sensors] -->|Raw Visual Data| B(Red Wolf Pro Edge AI)
+    A2[Blue Wolf Mobile App] -->|Manual Biometric Input| B
+    
+    %% Processing Layer (The Brain)
+    subgraph AI_Processing_Hub [Israel Intelligence Cloud - Project Nimbus]
+        B --> C{Facial Recognition Engine}
+        C -->|Match Found| D[Database Biometric IDF/Shin Bet]
+        C -->|No Match| E[New Profile Auto-Generation]
+        
+        D --> F{Behavioral Analysis AI}
+        E --> F
+        
+        F -->|Anomaly Detected| G[Risk Scoring 1-100]
+    end
+
+    %% Integration Layer (The Connection)
+    G --> H{Cross-System Integration}
+    H -->|Target Validation| I[LAVENDER - Target List]
+    H -->|Location Tracking| J[WHERE'S DADDY - Strike Timing]
+    H -->|Access Control| K[Automated Gate/Checkpoint]
+
+    %% Action Layer (The Execution)
+    I --> L[Command & Control Center]
+    J --> L
+    K -->|Gate Locked| M[Civilian Restriction]
+    L -->|Strike Approval| N[Air Strike / Ground Raid]
+
+    %% Styling
+    style AI_Processing_Hub fill:#f9f,stroke:#333,stroke-width:2px
+    style N fill:#ff4d4d,color:#fff
+    style M fill:#ff4d4d,color:#fff
