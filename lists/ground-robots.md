@@ -1,6 +1,6 @@
  # Ground Robots & Armored Vehicles
 
-## 📊 Tabel Komparatif: Robot & Sistem Militer AI Israel (dengan Emoji)
+## 📊 Tabel Komparatif: Robot & Sistem Militer AI Israel  
 
 | **Nama/Model** |   | **Deskripsi/Peran** |
 |----------------|-----------|---------------------|
