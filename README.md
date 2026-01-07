@@ -1,6 +1,6 @@
 <div align="center">
 
-## 🌍 Dokumentasi Publik: Military AI zionist israel  
+  🌍 Dokumentasi Publik: Military AI zionist israel  
 (Daftar Militer AI zionis israel yang digunakan oleh zionist Israel sebagai teknologi pendukung Genosida di Gaza dan Pencaplokan Wilayah Tepi Barat, PALESTINA)
 
 </div>
