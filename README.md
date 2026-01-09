@@ -43,17 +43,8 @@
 
 ---
 
-# 📖 Pendahuluan
-
-Repo ini adalah dokumentasi terbuka mengenai **sistem militer berbasis AI Zionis Israel**.
-
-- Repo ini lahir dari **kolaborasi manusia + AI**, dengan data yang bersumber dari **open source**.  
-- **Aktivisme:** Menyuarakan kritik terhadap penggunaan AI dalam genosida dan pendudukan.  
-- **Dokumentasi:** Mengarsipkan sistem militer dan teknologi yang digunakan.  
-- **Edukasi:** Memberikan informasi transparan bagi publik, peneliti, dan aktivis.  
-
-> Semua konten bersifat **open source**, dapat diakses dan digunakan untuk tujuan edukasi dan advokasi.  
-> Dokumentasi ini bukan instruksi operasional militer, melainkan analisis teknis dan narasi kritis.
+# 📖 وَجَعَلْنَا مِنْۢ بَيْنِ اَيْدِيْهِمْ سَدًّا وَّمِنْ خَلْفِهِمْ سَدًّا فَاَغْشَيْنٰهُمْ فَهُمْ لَا يُبْصِرُوْنَ ۝٩
+Kami memasang penghalang di hadapan mereka dan di belakang mereka, sehingga Kami menutupi (pandangan) mereka. Mereka pun tidak dapat melihat. QS: Yasin: 9
 
 ---
 
