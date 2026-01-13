@@ -1,13 +1,12 @@
 
 👉 Lihat [**DISCLAIMER**](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Disclaimer) 
 untuk penjelasan etis dan tujuan repo ini.
-
-<div align="center">
+  
 
 # 🌍 Dokumentasi Publik: Military AI Zionist Israel
 
-***Daftar sistem militer AI yang digunakan oleh Zionist Israel sebagai teknologi pendukung genosida di Gaza  
-dan pencaplokan wilayah Tepi Barat, PALESTINA.***
+ Daftar sistem militer AI yang digunakan oleh Zionist Israel sebagai teknologi pendukung genosida di Gaza  
+dan pencaplokan wilayah Tepi Barat, PALESTINA.  
 
  
 ---
