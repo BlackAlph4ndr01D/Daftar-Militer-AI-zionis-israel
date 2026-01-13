@@ -2,17 +2,10 @@
 
 # 🌍 Dokumentasi Publik: Military AI Zionist Israel
 
-**Daftar sistem militer AI yang digunakan oleh Zionist Israel sebagai teknologi pendukung genosida di Gaza  
-dan pencaplokan wilayah Tepi Barat, PALESTINA.**
+***Daftar sistem militer AI yang digunakan oleh Zionist Israel sebagai teknologi pendukung genosida di Gaza  
+dan pencaplokan wilayah Tepi Barat, PALESTINA.***
 
----
-
-<!-- Badge disclaimer block -->
-![Disclaimer](https://img.shields.io/badge/Disclaimer-Read%20First-critical)
-![Purpose: Research & Education](https://img.shields.io/badge/Purpose-Research%20%26%20Education-4c9aff)
-![Method: OSINT%20%2B%20Generative%20AI-7a5cff](https://img.shields.io/badge/Method-OSINT%20%2B%20Generative%20AI-7a5cff)
-![Stance: Anti‑violence](https://img.shields.io/badge/Stance-Anti%E2%80%91violence-2eb886)
-
+--- 
  
 👉 Lihat [**DISCLAIMER**](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Disclaimer)  
 untuk penjelasan etis dan tujuan repo ini.
