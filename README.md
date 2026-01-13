@@ -159,3 +159,25 @@ Fokus pada: dokumentasi nama → pengelompokan kategori → arsip referensi publ
 Laksanakan sholat 5 waktu tepat pada waktunya, agar semakin dekat kepada ALLOH azza wa jalla . ALLOH Maha Pengasih Maha Penyayang
 </div>
 
+# 🔗 Evolusi AI dan Dampaknya ke Palestina
+
+```mermaid
+flowchart TD
+
+A[🟢 ANI: Artificial Narrow Intelligence] --> B[🟡 AGI: Artificial General Intelligence]
+B --> C[🔴 ASI: Artificial Superintelligence]
+
+A --> A1[🟢 Targeting Militer: Lavender, Habsora]
+A --> A2[🟢 Pengawasan Data: Unit 8200]
+A --> A3[🟡 Propaganda Digital: Bot Team Jorge]
+A --> A4[🟡 Moderasi Platform: AI bias Big Tech]
+
+B --> B1[🟡 Generalisasi Strategi Perang Otomatis]
+B --> B2[🟡 Analisis Perilaku Sosial Palestina]
+B --> B3[🔴 Propaganda Adaptif & Deepfake]
+B --> B4[🔴 Bias Moderasi Semakin Kuat]
+
+C --> C1[🔴 Pembersihan Etnis Skala Besar]
+C --> C2[🔴 Privasi Hilang Total]
+C --> C3[🔴 Suara Palestina Dibungkam Global]
+C --> C4[🔴 Sejarah Digital Palestina Terhapus]
