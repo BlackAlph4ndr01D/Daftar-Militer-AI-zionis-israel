@@ -13,11 +13,7 @@ dan pencaplokan wilayah Tepi Barat, PALESTINA.**
 ![Method: OSINT%20%2B%20Generative%20AI-7a5cff](https://img.shields.io/badge/Method-OSINT%20%2B%20Generative%20AI-7a5cff)
 ![Stance: Anti‑violence](https://img.shields.io/badge/Stance-Anti%E2%80%91violence-2eb886)
 
-👉 Lihat [**DISCLAIMER**](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Disclaimer)  
-untuk penjelasan etis dan tujuan repo ini.
-
-</div>
-
+ 
 👉 Lihat [**DISCLAIMER**](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Disclaimer)  
 untuk penjelasan etis dan tujuan repo ini.
 
