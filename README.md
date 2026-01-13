@@ -5,12 +5,11 @@ untuk penjelasan etis dan tujuan repo ini.
 
 # 🌍 Dokumentasi Publik: Military AI Zionist Israel
 
- Daftar sistem militer AI yang digunakan oleh Zionist Israel sebagai teknologi pendukung genosida di Gaza  
+Daftar  sistem militer AI yang digunakan oleh Zionist Israel sebagai teknologi pendukung genosida di Gaza  
 dan pencaplokan wilayah Tepi Barat, PALESTINA.  
 
  
----
-##### Tribute untuk [[Abu Ubaidah]](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Abu-Ubaidah-%E2%80%90-Eliminasi-Oleh-Algoritma) AI tetaplah benda mati. Ia bisa memetakan koordinat, tapi ia tidak bisa memetakan takdir. Ia bisa menghancurkan tubuh, tapi ia tidak bisa menghancurkan ideologi kebebasan. Di hadapan ALLOH, kesyahidan adalah kemenangan sejati yang melampaui segala perhitungan algoritma duniawi.
+ ##### Tribute untuk [[Abu Ubaidah]](https://github.com/BlackAlph4ndr01D/Daftar-Militer-AI-zionis-israel/wiki/Abu-Ubaidah-%E2%80%90-Eliminasi-Oleh-Algoritma) AI tetaplah benda mati. Ia bisa memetakan koordinat, tapi ia tidak bisa memetakan takdir. Ia bisa menghancurkan tubuh, tapi ia tidak bisa menghancurkan ideologi kebebasan. Di hadapan ALLOH, kesyahidan adalah kemenangan sejati yang melampaui segala perhitungan algoritma duniawi.
 ---
 <div align="center">
   <img 
