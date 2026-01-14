@@ -161,23 +161,29 @@ Laksanakan sholat 5 waktu tepat pada waktunya, agar semakin dekat kepada ALLOH a
 
 # 🔗 Evolusi AI dan Dampaknya ke Palestina
 
+ 
+# 🌐 Flowchart ANI → AGI → ASI (Palestina & Propaganda vs Quality of Life)
+
 ```mermaid
 flowchart TD
+    A[ANI: Artificial Narrow Intelligence] --> B[AGI: Artificial General Intelligence]
+    B --> C[ASI: Artificial Superintelligence]
 
-A[🟢 ANI: Artificial Narrow Intelligence] --> B[🟡 AGI: Artificial General Intelligence]
-B --> C[🔴 ASI: Artificial Superintelligence]
+    %% Jalur dominasi & propaganda
+    A --> D[Mass Surveillance / Kontrol Narasi]
+    B --> E[Propaganda Digital terkait Palestina]
+    C --> F[Global Control & Penindasan]
 
-A --> A1[🟢 Targeting Militer: Lavender, Habsora]
-A --> A2[🟢 Pengawasan Data: Unit 8200]
-A --> A3[🟡 Propaganda Digital: Bot Team Jorge]
-A --> A4[🟡 Moderasi Platform: AI bias Big Tech]
+    %% Jalur manfaat manusia
+    A --> G[Diagnosis Medis / Aksesibilitas]
+    B --> H[Efisiensi Energi / Renewable Tech]
+    C --> I[Quality of Life Enhancement]
 
-B --> B1[🟡 Generalisasi Strategi Perang Otomatis]
-B --> B2[🟡 Analisis Perilaku Sosial Palestina]
-B --> B3[🔴 Propaganda Adaptif & Deepfake]
-B --> B4[🔴 Bias Moderasi Semakin Kuat]
+    %% Output
+    D --> J[Output: Penindasan & Bias Informasi]
+    E --> J
+    F --> J
 
-C --> C1[🔴 Pembersihan Etnis Skala Besar]
-C --> C2[🔴 Privasi Hilang Total]
-C --> C3[🔴 Suara Palestina Dibungkam Global]
-C --> C4[🔴 Sejarah Digital Palestina Terhapus]
+    G --> K[Output: Kesehatan & Inklusi]
+    H --> K
+    I --> K
