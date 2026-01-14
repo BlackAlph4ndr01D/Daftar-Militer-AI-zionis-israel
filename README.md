@@ -159,10 +159,9 @@ Fokus pada: dokumentasi nama → pengelompokan kategori → arsip referensi publ
 Laksanakan sholat 5 waktu tepat pada waktunya, agar semakin dekat kepada ALLOH azza wa jalla . ALLOH Maha Pengasih Maha Penyayang
 </div>
 
-# 🔗 Evolusi AI dan Dampaknya ke Palestina
-
  
-# 🌐 Flowchart ANI → AGI → ASI (Palestina & Propaganda vs Quality of Life)
+ 
+#### 🌐 Flowchart ANI → AGI → ASI (Palestina & Propaganda vs Quality of Life)
 
 ```mermaid
 flowchart TD
