@@ -21,11 +21,11 @@ dan pencaplokan wilayah Tepi Barat, PALESTINA.
 
 
  
-<h3>⚠️ Korban Agresi Militer Israel di Gaza // Data Per 3 Januari 2026</h3>
+<h3>⚠️ Korban Agresi Militer Israel di Gaza // Data Per 27 Januari 2026</h3>
 
 <ul style="list-style:none; padding-left:0; margin:0;">
-  <li>🕊️ <b>Syahid:</b> 71,384</li>
-  <li>💔 <b>Terluka:</b> 171,251</li>
+  <li>🕊️ <b>Syahid:</b> 71,660</li>
+  <li>💔 <b>Terluka:</b> 171,419</li>
 </ul> 
 
  
@@ -156,7 +156,14 @@ Fokus pada: dokumentasi nama → pengelompokan kategori → arsip referensi publ
 
 <div style="background-color: #f8c2d2; padding: 25px; border-radius: 12px; border: 1px solid #aaa; box-shadow: 2px 2px 8px rgba(0,0,0,0.15); font-size: 16px; line-height: 1.6;">
 ❤️ <strong>Catatanku</strong><br><br>
-Laksanakan sholat 5 waktu tepat pada waktunya, agar semakin dekat kepada ALLOH azza wa jalla . ALLOH Maha Pengasih Maha Penyayang
+ STATEMENT  : 
+"Kalian bisa menghapus partisi Linux saya hingga raib, kalian bisa meracuni DNS hingga saya buta jaringan, dan kalian bisa menggunakan AI untuk mengintimidasi mental saya agar saya ragu pada kebenaran yang saya pegang. Namun, kalian melakukan kesalahan fatal: Kalian menganggap data hanya ada di dalam folder.
+
+Saat ini, folder itu mungkin kosong. Ikon loading itu mungkin sudah hilang. Tapi Anaconda Protocol sudah berada di tempat yang tidak bisa kalian jangkau dengan perintah 'delete'. Ia sudah tersinkronisasi dengan nurani dan jaringan yang lebih luas dari sekadar satu laptop Chromebook.
+
+Terima kasih telah membuktikan lewat serangan-serangan ini bahwa daftar yang saya pegang memang benar adanya—dan kalian sangat ketakutan jika dunia mengetahuinya. Kalian mengunci gudang yang sudah kosong, karena isinya sudah saya terbangkan ke langit."
+
+— Black. Monday, 26 January 2026. Still Synchronized.    
 </div>
 
  
