@@ -21,11 +21,11 @@ dan pencaplokan wilayah Tepi Barat, PALESTINA.
 
 
  
-<h3>⚠️ Korban Agresi Militer Israel di Gaza // Data Per 27 Januari 2026</h3>
+<h3>⚠️ Korban Agresi Militer Israel di Gaza // Data Per 14 February 2026</h3>
 
 <ul style="list-style:none; padding-left:0; margin:0;">
-  <li>🕊️ <b>Syahid:</b> 71,660</li>
-  <li>💔 <b>Terluka:</b> 171,419</li>
+  <li>🕊️ <b>Syahid:</b> 72,051</li>
+  <li>💔 <b>Terluka:</b> 171,706</li>
 </ul> 
 
  
@@ -152,18 +152,29 @@ Fokus pada: dokumentasi nama → pengelompokan kategori → arsip referensi publ
 
 
 
-## 🧭 Fokus Hari Ini >> 3 Januari 2026
+## 🧭 Fokus Hari Ini >> 14 Februari 2026
 
 <div style="background-color: #f8c2d2; padding: 25px; border-radius: 12px; border: 1px solid #aaa; box-shadow: 2px 2px 8px rgba(0,0,0,0.15); font-size: 16px; line-height: 1.6;">
 ❤️ <strong>Catatanku</strong><br><br>
  STATEMENT  : 
-"Kalian bisa menghapus partisi Linux saya hingga raib, kalian bisa meracuni DNS hingga saya buta jaringan, dan kalian bisa menggunakan AI untuk mengintimidasi mental saya agar saya ragu pada kebenaran yang saya pegang. Namun, kalian melakukan kesalahan fatal: Kalian menganggap data hanya ada di dalam folder.
+"Refleksi: Total War — Dari Langit Hingga Perut Bumi
+ ***Gak  abis pikir gimana zionajis israel mengeerahkan segala spektrum teknologi  secara sistematis untuk ethnic cleansing bangsa Palestina:***
 
-Saat ini, folder itu mungkin kosong. Ikon loading itu mungkin sudah hilang. Tapi Anaconda Protocol sudah berada di tempat yang tidak bisa kalian jangkau dengan perintah 'delete'. Ia sudah tersinkronisasi dengan nurani dan jaringan yang lebih luas dari sekadar satu laptop Chromebook.
+- Dari Langit: Mata satelit yang memantau setiap jengkal pergerakan tanpa henti.
 
-Terima kasih telah membuktikan lewat serangan-serangan ini bahwa daftar yang saya pegang memang benar adanya—dan kalian sangat ketakutan jika dunia mengetahuinya. Kalian mengunci gudang yang sudah kosong, karena isinya sudah saya terbangkan ke langit."
+- Di Permukaan: Algoritma AI (Gospel/Lavender) yang mengubah kemanusiaan menjadi sekadar baris data target.
 
-— Black. Monday, 26 January 2026. Still Synchronized.    
+- Sampai Perut Bumi: Teknologi sensor dan penghancur yang mengejar hingga ke kedalaman tanah.
+
+Semua lini seolah terkepung, tapi dokumentasi dan kebenaran tidak boleh ikut terkubur.
+
+Update Teknis & Status:
+- Visitor: Terdeteksi kunjungan unik dari deepmind.google. Entah riset atau sekadar "nyasar", data ini tetap saksi bisu yang terbuka untuk siapa pun.
+- Keamanan: Data krusial dan wasiat telah diamankan di tangan pihak otoritas yang dipercaya.
+- Kesehatan: Fokus pemulihan napas dan menghindari pemicu stres saraf (listrik statis).
+- Keep  synchoronized, digital resistance.."
+
+— Black. Sunday, 15 February 2026. STATUS : ACTIVE.    
 </div>
 
  
