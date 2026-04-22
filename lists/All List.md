@@ -1,12 +1,12 @@
-| **Kategori** | **Sub‑Kategori / Entri** | **Fungsi / Fokus** |
+| **Kategori** | **Halaman Wiki** | **Fokus / Fungsi** |
 | --- | --- | --- |
-| **Unit & Divisi Militer** | Unit 8200 LLM, Unit 3060 (Data Factory), Unit Cyber Defense Division, Talpiot Program, MAMRAM | Intelijen digital, HUMINT, training, integrasi AI |
-| **Big Tech & Infrastruktur** | Nebius, Mellanox, IBM, J.P. Morgan, Samsung, Oracle NSR, Cisco & Dell | Cloud, chip, finansial, hardware, jaringan |
-| **Sistem AI & Protokol** | Fire Weaver 2, Smart Shooter, Strategic AI, Stealth AI, Swarm Intelligence, PsyOps AI | Targeting otomatis, swarm, operasi psikologis |
-| **Senjata & Hardware** | Arrow 3/4, Barak MX, Iron Beam (Lite/Naval), Harop Loitering, Hermes 900, Heron TP M, Spike AI, Trophy APS | Rudal, drone, sistem pertahanan udara |
-| **Konsep & Kritik Etis** | Gaza as the First ASI Ethics Failure, Why Shutdown Is the Only Anti Anaconda Action, Bobroknya Moral Teknologi Zionis Israel, Apartheid Spasial Digital | Kritik etika, moral, genosida algoritmik |
-| **Ekosistem & Peta** | Ecosystem Map Jan 2026, Hidden Connection Map, High‑Tech & Startup Ecosystem Map, Peta Rantai Pasokan | Pemetaan hubungan entitas, supply chain |
+| **Umum & Pendahuluan** | ALERT! Dokumentasi Forensik, Disclaimer, Pendahuluan, Navigasi Dokumentasi Publik | Peringatan, pengantar, panduan navigasi |
+| **Intelijen & Unit Militer** | Unit 8200, Unit 9900, HUMINT, Kidon, LAP (Psikologis), MAMRAM, Talpiot Program | Intelijen sinyal, HUMINT, operasi khusus, training |
+| **Big Tech & Infrastruktur** | Microsoft (Azure), Google (Project Nimbus, Astra), Amazon AWS, Palantir (Titan, Gotham, Foundry), NVIDIA (Jetson, Grace Hopper), Meta (WhatsApp, Instagram), Oracle NSR, Cisco, Intel, Mellanox | Cloud, GPU, analitik data, platform sosial |
+| **Sistem AI & Protokol** | Lavender, Gospel, Fire Factory, Fire Weaver, Anaconda Protocol (fase, level), Orion, Q.ai, GENIE, Andromeda | Targeting, klasifikasi, eskalasi otomatis, decision support |
+| **Senjata & Hardware** | Arrow 3/4, Barak MX, Iron Dome AI, Iron Beam, David’s Sling, Trophy APS, Spike AI, Python 5, Harop, Heron TP, Hermes 900, Drone Swarm | Rudal, drone, sistem pertahanan udara, robot tempur |
+| **Konsep & Kritik Etis** | Apartheid Digital, Gaza sebagai Lab Militer AI, Gaza as ASI Ethics Failure, Shutdown as Moral Act, Bobroknya Moral Teknologi Zionis Israel, Why Gaza Is the Moral Failure of AI Governance | Kritik moral, etika AI, genosida algoritmik |
+| **Ekosistem & Peta** | Ecosystem Map Jan 2026, Hidden Connection Map, High‑Tech & Startup Ecosystem Map, Matrix BigTech × Anaconda Protocol × Dampak Sipil, Rantai Pasokan Teknologi Militer | Pemetaan hubungan entitas, supply chain, ekosistem teknologi |
+| **Operasi & Program** | Operation Iron Swords, Operation Iron Wall, Project Maven, Project Nimbus Phase 2, Project Stellar, Project Sub T | Program militer, operasi AI, kontrak cloud |
+| **Propaganda & PsyOps** | Hasbara, Team Jorge, PAGAN, Moderasi Bahasa Arab, Social Media Dox, Cyabra | Operasi pengaruh, propaganda digital |
 | **Memoriam & Narasi** | Muted Screams, Abu Ubaidah, Nabil Halabiya, URGENT FOR GAZA FAMILIES | Dokumentasi korban, memorialisasi |
-| **Teknologi Pendukung** | Quantum Radar, Synthetic Aperture Radar, OODA Loop, VISINT, GEOINT, IMINT, SIGINT | Sensor, intelijen teknis, radar |
-| **Operasi & Program** | Operation Iron Swords, Operation Iron Wall, Project Maven, Project Nimbus Phase 2, Project Stellar, Project Sub T | Program militer, operasi AI, cloud kontrak |
-| **Propaganda & PsyOps** | Team Jorge, PAGAN, Hasbara, Moderasi Bahasa Arab, Social Media Dox, Cyabra | Operasi pengaruh, propaganda digital |
