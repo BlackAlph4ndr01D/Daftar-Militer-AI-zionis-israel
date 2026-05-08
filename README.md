@@ -21,11 +21,11 @@ dan pencaplokan wilayah Tepi Barat, PALESTINA.
 
 
  
-<h3>⚠️ Korban Agresi Militer Israel di Gaza // Data Per 14 February 2026</h3>
+<h3>⚠️ Korban Agresi Militer Israel di Gaza // Data Per 6 Mei 2026</h3>
 
 <ul style="list-style:none; padding-left:0; margin:0;">
-  <li>🕊️ <b>Syahid:</b> 72,051</li>
-  <li>💔 <b>Terluka:</b> 171,706</li>
+  <li>🕊️ <b>Syahid:</b> 72,619</li>
+  <li>💔 <b>Terluka:</b> 172,484</li>
 </ul> 
 
  
@@ -152,7 +152,7 @@ Fokus pada: dokumentasi nama → pengelompokan kategori → arsip referensi publ
 
 
 
-## 🧭 Fokus Hari Ini >> 14 Februari 2026
+## 🧭 Fokus Hari Ini >> 9 Mei 2026
 
 <div style="background-color: #f8c2d2; padding: 25px; border-radius: 12px; border: 1px solid #aaa; box-shadow: 2px 2px 8px rgba(0,0,0,0.15); font-size: 16px; line-height: 1.6;">
 ❤️ <strong>Catatanku</strong><br><br>
@@ -169,12 +169,12 @@ Fokus pada: dokumentasi nama → pengelompokan kategori → arsip referensi publ
 Semua lini seolah terkepung, tapi dokumentasi dan kebenaran tidak boleh ikut terkubur.
 
 Update Teknis & Status:
-- Visitor: Terdeteksi kunjungan unik dari deepmind.google. Entah riset atau sekadar "nyasar", data ini tetap saksi bisu yang terbuka untuk siapa pun.
-- Keamanan: Data krusial dan wasiat telah diamankan di tangan pihak otoritas yang dipercaya.
-- Kesehatan: Fokus pemulihan napas dan menghindari pemicu stres saraf (listrik statis).
-- Keep  synchoronized, digital resistance.."
+Selama aku masih hidup, aku akan terus bongkar sistem militer AI zionist Israel. 
+Hanya ALLOH yang bisa menghentikan aku
+ - Keep  synchoronized, digital resistance.."
 
-— Black. Sunday, 15 February 2026. STATUS : ACTIVE.    
+— Black. Sabtu, 9  Mei 2026. 
+# [STATUS : ACTIVE]     
 </div>
 
  
